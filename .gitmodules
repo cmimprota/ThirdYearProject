@@ -1,0 +1,6 @@
+[submodule "densecap"]
+	path = densecap
+	url = https://github.com/cmimprota/densecap.git
+[submodule "visual_genome_python_driver"]
+	path = visual_genome_python_driver
+	url = https://github.com/cmimprota/visual_genome_python_driver.git
